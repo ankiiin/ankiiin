@@ -15,6 +15,23 @@ Welcome to my GitHub profile! I'm a front-end developer and UX designer in train
 - **Design Tools:** Figma
 - **Other Tools:** GitHub, Swagger for API documentation
 
+# 📂 Featured Projects
+
+**1. Community Science Museum**
+- **Description:** A blog application with dynamic content fetched from an API, designed to promote wellness and mindfulness.
+- **Tech Stack:** HTML, CSS
+- [Semester project 1](https://github.com/ankiiin/semester-project)
+
+**2. Lavara Wellness Blog**
+- **Description:** A minimalist blog application focused on healthy living and mindfulness.
+- **Tech Stack:** HTML, CSS, JavaScript
+- [Project exam 1](https://github.com/ankiiin/Project-exam-1)
+
+**3. Rainydays**
+- **Description:** An e-commerce website for rain jackets with responsive design and multiple product pages.
+- **Tech Stack:** HTML, CSS, Javascript
+- [Cross course project](https://github.com/ankiiin/rainydays)
+
 # 🌟 What I'm Working On
 
 - Improving my skills in JavaScript and exploring front-end frameworks.
