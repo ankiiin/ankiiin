@@ -39,4 +39,4 @@ Welcome to my GitHub profile! I'm a front-end developer and UX designer in train
 
 # 📫 Contact Me
 
-- Email: annham49344@stud.noroff.no
+- Linkedin: https://www.linkedin.com/in/anniken-olsen-hammerstad-511145370/
