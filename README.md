@@ -40,7 +40,7 @@ A booking platform developed as part of Project Exam 2. The project focuses on b
 
 **Auction House - Semester Project 2**
 An online auction platform developed as Semester Project 2. The project includes features such as listing creation, bidding functionality, user authentication, profile management, and dynamic data fetched from the Noroff API.  
-**Tech stack:** React, Javascript, Tailwind CSS, Noroff API
+**Tech stack:** HTML, Tailwind, Javascript
 
 **Cartastrophe - Javascript Frameworks**
 An e-commerce website built using a JavaScript framework with real API data from Noroff. I worked on cart and checkout functionality, client-side validation, accessibility, and layout based on a detailed Figma design.  
